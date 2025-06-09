@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo apt install -y telnet
+sudo apt update
 sudo apt install -y nginx
 sudo systemctl enable nginx
 sudo chmod -R 755 /var/www/html
