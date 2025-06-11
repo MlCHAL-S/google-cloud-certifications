@@ -11,7 +11,7 @@ spec:
       containers:
       - name: job1
         image: alpine
-        command: ['sh', '-c', 'echo Kubernetes Jobs Demo - Job Completions Test ; sleep 20']
+        command: ['sh', '-c', 'echo Kubernetes Jobs Demo - Job Completions Test ; sleep 25']
       # Do not restart containers after they exit
       restartPolicy: Never
   # backoffLimit: Number of retries before marking as failed.
