@@ -25,4 +25,4 @@ spec:
             limits:
               memory: "50Mi"
               cpu: "50m"  # 1000m is equal to 1 VCPU core                                               
-    
+     

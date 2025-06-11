@@ -1,0 +1,13 @@
+./1-Compute-Engine/04-SSH-Keys/04-04-SSHKeys-OSLogin/README.md: roles/compute.osAdminLogin
+./1-Compute-Engine/04-SSH-Keys/04-04-SSHKeys-OSLogin/README.md: roles/compute.osLogin
+./1-Compute-Engine/04-SSH-Keys/04-04-SSHKeys-OSLogin/README.md: roles/compute.osLoginExternalUser
+./2-Cloud-Run/02-Cloud-Run-Jobs/README.md: roles/storage.admin
+./3-Cloud-Functions/03-Cloud-Functions-Events-with-Cloud-Storage/README.md: roles/eventarc.eventReceiver
+./9-Cloud-IAM/03-IAM-Policy/README.md: roles/storage.admin
+./9-Cloud-IAM/03-IAM-Policy/README.md: roles/storage.admin
+./9-Cloud-IAM/05-IAM-ServiceAccounts/README.md: roles/storage.admin
+./9-Cloud-IAM/06-IAM-ServiceAccounts-gcloud/README.md: roles/storage.admin
+./9-Cloud-IAM/06-IAM-ServiceAccounts-gcloud/README.md: roles/storage.admin
+./9-Cloud-IAM/06-IAM-ServiceAccounts-gcloud/README.md: roles/storage.admin
+./9-Cloud-IAM/08-IAM-Service-Account-Keys/README.md: roles/storage.admin
+./19-Cloud-Storage/06-Cloud-Storage-Security-UBLA-IAM/README.md: roles/storage.objectViewer
